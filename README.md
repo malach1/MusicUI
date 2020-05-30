@@ -1,1 +1,1 @@
-<img src="MusicUI/ReadMe/Images/lalbumDrop.png" width=200>
+<img src="MusicUI/ReadMe/albumDrop.png" width=200>
