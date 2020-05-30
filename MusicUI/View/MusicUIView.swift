@@ -20,14 +20,10 @@ struct MusicUIView: View {
                 VStack(spacing: 5) {
                     TopRowButtons()
                     Albumcover()
-                    
                     Spacer()
-                    
                     Player()
-                    
                     Spacer()
                     Spacer()
-                    
                     BottowRowButtons()
                     Spacer()
                     Spacer()
